@@ -4,3 +4,7 @@ $ ./potencia <potencia_in.txt > potencia_out.txt
 $ ./potencia <potencia_in.txt > potencia_out_2.txt 
 
 $ diff potencia_out.txt potencia_out_2.txt 
+
+
+gcc -o arquivo arquivo.c
+./arquivo
