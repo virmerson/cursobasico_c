@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446815723 source:/home/201519050631/Documentos/algoritmos2/exerc_aula3/projetoExercicio/projetodebub/main.c
+	<stdio.h>
+	<stdlib.h>
+
